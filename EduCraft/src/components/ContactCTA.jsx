@@ -16,7 +16,7 @@ export default function ContactCTA() {
           </div>
           <div className="cta-actions">
             <a
-              href={whatsappLink('Hi Aditi, I have a school project requirement.')}
+              href={whatsappLink('Hi Neeru, I have a school project requirement.')}
               className="btn btn-whatsapp btn-lg"
               target="_blank"
               rel="noopener noreferrer"

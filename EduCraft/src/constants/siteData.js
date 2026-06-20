@@ -1,4 +1,4 @@
-export const WHATSAPP_NUMBER = '918219184202';
+export const WHATSAPP_NUMBER = '917018337943';
 export const EMAIL = 'educraftprojects@gmail.com';
 
 export const whatsappLink = (message) =>

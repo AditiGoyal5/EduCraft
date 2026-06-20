@@ -66,5 +66,5 @@ After deploy, your site will be live at a `*.netlify.app` URL. You can add a cus
 
 ## Contact
 
-- **WhatsApp:** [+91 82191 84202](https://wa.me/918219184202)
+- **WhatsApp:** [+91 7018337943](https://wa.me/917018337943)
 - **Location:** Paonta Sahib, Himachal Pradesh
